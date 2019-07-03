@@ -1,0 +1,10 @@
+E:\visualC\ConsumidorWebServiceJava\ConsumidorWebServiceJava\bin\Debug\ConsumidorWebServiceJava.exe.config
+E:\visualC\ConsumidorWebServiceJava\ConsumidorWebServiceJava\bin\Debug\ConsumidorWebServiceJava.exe
+E:\visualC\ConsumidorWebServiceJava\ConsumidorWebServiceJava\bin\Debug\ConsumidorWebServiceJava.pdb
+E:\visualC\ConsumidorWebServiceJava\ConsumidorWebServiceJava\obj\Debug\ConsumidorWebServiceJava.csprojAssemblyReference.cache
+E:\visualC\ConsumidorWebServiceJava\ConsumidorWebServiceJava\obj\Debug\ConsumidorWebServiceJava.Form1.resources
+E:\visualC\ConsumidorWebServiceJava\ConsumidorWebServiceJava\obj\Debug\ConsumidorWebServiceJava.Properties.Resources.resources
+E:\visualC\ConsumidorWebServiceJava\ConsumidorWebServiceJava\obj\Debug\ConsumidorWebServiceJava.csproj.GenerateResource.cache
+E:\visualC\ConsumidorWebServiceJava\ConsumidorWebServiceJava\obj\Debug\ConsumidorWebServiceJava.csproj.CoreCompileInputs.cache
+E:\visualC\ConsumidorWebServiceJava\ConsumidorWebServiceJava\obj\Debug\ConsumidorWebServiceJava.exe
+E:\visualC\ConsumidorWebServiceJava\ConsumidorWebServiceJava\obj\Debug\ConsumidorWebServiceJava.pdb
